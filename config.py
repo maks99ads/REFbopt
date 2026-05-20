@@ -24,13 +24,7 @@ EXPORT_IMAGE = ASSETS_DIR / "export.jpg"
 DOWNLOAD_DIR.mkdir(exist_ok=True)
 
 DEFAULT_TOPICS = {
-    "CowGirl": {"id": 2, "icon": "🤠"},
-    "Student": {"id": 6, "icon": "🎓"},
-    "Meme": {"id": 7, "icon": "😂"},
-    "Telegram": {"id": 4, "icon": "✈️"},
-    "X": {"id": 8, "icon": "𝕏"},
-    "Threads": {"id": 9, "icon": "🧵"},
-    "Instagram": {"id": 22, "icon": "📸"}
+    "Спорт аккаунты": {"id": 2, "icon": "⚽"}
 }
 
 PRIORITIES = {
